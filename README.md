@@ -1,5 +1,6 @@
 ## Welcome to CaptainWangHao's Debs！
 
+本源提供的插件均来自于网络，100%原作者生成，无任何代码修改，旨在整合优良插件，如有侵权请联系本人！
 You can use the [editor on GitHub](https://github.com/tony881120/blog/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
